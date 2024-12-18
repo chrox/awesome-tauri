@@ -212,7 +212,6 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 ### Ebook readers
 
 - [Alexandria](https://github.com/btpf/Alexandria) - Minimalistic cross-platform eBook reader.
-- [Awaken](https://github.com/dtysky/Awaken) - Cross-platform EPUB reader, supporting notes, progress, and bookmark synchronization with WebDAV.
 - [Jane Reader](https://janereader.com) ![closed source] - Modern and distraction-free epub reader.
 - [Readest](https://github.com/chrox/readest) - Modern and feature-rich ebook reader designed for avid readers.
 
